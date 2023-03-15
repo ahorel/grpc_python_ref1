@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./protos/gen-py",
+        "./grpc-services",
+        "./protos/genpy"
+    ]
+}
